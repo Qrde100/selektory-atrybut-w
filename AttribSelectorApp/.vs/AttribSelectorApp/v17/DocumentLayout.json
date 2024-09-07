@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Qrde\\Desktop\\studia\\javascript\\lekcja1\\Selektory Atrybutowe\\AttribSelectorApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EE02F4DA-616F-471C-89A9-FE1ED8515582}|AttribSelectorApp\\AttribSelectorApp.csproj|c:\\users\\qrde\\desktop\\studia\\javascript\\lekcja1\\selektory atrybutowe\\attribselectorapp\\attribselectorapp\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{EE02F4DA-616F-471C-89A9-FE1ED8515582}|AttribSelectorApp\\AttribSelectorApp.csproj|solutionrelative:attribselectorapp\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{EE02F4DA-616F-471C-89A9-FE1ED8515582}|AttribSelectorApp\\AttribSelectorApp.csproj|C:\\Users\\Qrde\\Desktop\\studia\\javascript\\lekcja1\\Selektory Atrybutowe\\AttribSelectorApp\\attribselectorapp\\mainpage.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EE02F4DA-616F-471C-89A9-FE1ED8515582}|AttribSelectorApp\\AttribSelectorApp.csproj|solutionrelative:attribselectorapp\\mainpage.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EE02F4DA-616F-471C-89A9-FE1ED8515582}|AttribSelectorApp\\AttribSelectorApp.csproj|c:\\users\\qrde\\desktop\\studia\\javascript\\lekcja1\\selektory atrybutowe\\attribselectorapp\\attribselectorapp\\mainpage.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EE02F4DA-616F-471C-89A9-FE1ED8515582}|AttribSelectorApp\\AttribSelectorApp.csproj|solutionrelative:attribselectorapp\\mainpage.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{EE02F4DA-616F-471C-89A9-FE1ED8515582}|AttribSelectorApp\\AttribSelectorApp.csproj|c:\\users\\qrde\\desktop\\studia\\javascript\\lekcja1\\selektory atrybutowe\\attribselectorapp\\attribselectorapp\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{EE02F4DA-616F-471C-89A9-FE1ED8515582}|AttribSelectorApp\\AttribSelectorApp.csproj|solutionrelative:attribselectorapp\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,30 +18,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Style.css",
               "DocumentMoniker": "C:\\Users\\Qrde\\Desktop\\studia\\javascript\\lekcja1\\Selektory Atrybutowe\\AttribSelectorApp\\AttribSelectorApp\\Style.css",
               "RelativeDocumentMoniker": "AttribSelectorApp\\Style.css",
               "ToolTip": "C:\\Users\\Qrde\\Desktop\\studia\\javascript\\lekcja1\\Selektory Atrybutowe\\AttribSelectorApp\\AttribSelectorApp\\Style.css",
               "RelativeToolTip": "AttribSelectorApp\\Style.css",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAZAAAA",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAqwA0AAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2024-09-07T09:56:50.279Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Mainpage.html",
               "DocumentMoniker": "C:\\Users\\Qrde\\Desktop\\studia\\javascript\\lekcja1\\Selektory Atrybutowe\\AttribSelectorApp\\AttribSelectorApp\\Mainpage.html",
               "RelativeDocumentMoniker": "AttribSelectorApp\\Mainpage.html",
               "ToolTip": "C:\\Users\\Qrde\\Desktop\\studia\\javascript\\lekcja1\\Selektory Atrybutowe\\AttribSelectorApp\\AttribSelectorApp\\Mainpage.html",
               "RelativeToolTip": "AttribSelectorApp\\Mainpage.html",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAHAAAA",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAACcAAAA/AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2024-09-07T09:56:28.379Z",
               "EditorCaption": ""

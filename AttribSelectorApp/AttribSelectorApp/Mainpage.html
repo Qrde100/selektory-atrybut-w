@@ -7,17 +7,39 @@
 </head>
 <body>
     <div class="main">
-        <a href="#" hreflang="pl-PL">Jakiś tekst</a>
+        <a href="#" hreflang="pl ">Jakiś tekst</a>
+        <a href="#" hreflang="pl PL">Jakiś tekst</a>
         <a href="#" hreflang="en-UK">Jakiś inny tekst</a>
         <a href="#" hreflang="turkish">jakiś turecki tekst</a>
         <a href="#" hreflang="tur-au">jakiś jeszcze tekst</a>
     </div>
     <script src="https://code.jquery.com/jquery-3.6.0.min.js" /></script>
     <script>
-        
-        //selektor uwzględniający pierwsze litery tekstu i myślnik 
-        $("a[hreflang|='en']").css("backgroundColor", "green"); // wyszukanie hreflang z atrybutami 'en' zmiana wartości css dla wyszukanego kontenera
 
+
+       //    $("a[hreflang|='en']").css("backgroundColor", "green");
+        //selektor uwzględniający pierwsze litery tekstu i myślnik
+        // wyszukanie hreflang z atrybutami 'en' zmiana wartości css dla wyszukanego kontenera
+        // Selektor atrybutu z prefiksem [attr|=value] wykorzystuje | w jQuery do wybierania elementów z określonymi wartościami atrybutu.
+
+        //  $("a[hreflang*='pl']").css("backgroundColor", "yellow");
+        // * - wszystkie elementy
+
+        //   $("a[hreflang~='PL").css("backgroundColor", "yellow");
+        // ~ selektor wyszukujący słowo sprawdzający czy przed słowem znajduje się spacja
+
+        //  $("a[hreflang$='kish']").css("backgroundColor", "black");
+        //selektor $ znajdujący podciąg który jest zakończeniem wartościo określonego atrybutu (końcówka tekstu)
+
+        // $("a[hreflang='turkish']").css("backgroundColor", "yellow");
+        //znajdowanie całego ciągu znaków
+
+        //$("a[hreflang!='pl']").css("backgroundColor", "gray");
+        //zanjdowanie grupy podciągów nie zawierających danych podciągów
+
+        $("a[hreflang^='pl']").css("backgraundColor", "black");
+        //selektor żadający znalezienia podciągu który stanowi rozpoczęcie całego ciągu 
     </script>
+    
 </body>
 </html>
