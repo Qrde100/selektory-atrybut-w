@@ -1,0 +1,23 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Atrib Selektor</title>
+    <link rel="stylesheet" type="text/css" href="Style.css"/>
+</head>
+<body>
+    <div class="main">
+        <a href="#" hreflang="pl-PL">Jakiś tekst</a>
+        <a href="#" hreflang="en-UK">Jakiś inny tekst</a>
+        <a href="#" hreflang="turkish">jakiś turecki tekst</a>
+        <a href="#" hreflang="tur-au">jakiś jeszcze tekst</a>
+    </div>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js" /></script>
+    <script>
+        
+        //selektor uwzględniający pierwsze litery tekstu i myślnik 
+        $("a[hreflang|='en']").css("backgroundColor", "green"); // wyszukanie hreflang z atrybutami 'en' zmiana wartości css dla wyszukanego kontenera
+
+    </script>
+</body>
+</html>
